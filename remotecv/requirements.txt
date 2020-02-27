@@ -1,4 +1,4 @@
 argparse==1.4.0
 pyres==1.5
 redis==2.10.6
--e git+https://github.com/clyquan/remotecv_aws.git#egg=remotecv_aws
+-e git+https://github.com/r0bdiabl0/remotecv_aws.git#egg=remotecv_aws
